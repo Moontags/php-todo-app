@@ -8,8 +8,6 @@ This is a simple To-Do List project built with **PHP**, **HTML**, **CSS**, and *
 - Remove tasks from the list.
 - Responsive design for all devices.
 - Clean and minimalistic layout with a modern dark gradient background.
-
-- ```markdown
 ![To-Do List Screenshot](/images/todo.png)
 
 ## Technologies Used
