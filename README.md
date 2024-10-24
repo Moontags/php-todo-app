@@ -10,7 +10,7 @@ This is a simple To-Do List project built with **PHP**, **HTML**, **CSS**, and *
 - Clean and minimalistic layout with a modern dark gradient background.
 
 - ```markdown
-![To-Do List Screenshot](todo.png)
+![To-Do List Screenshot](/images/todo.png)
 
 ## Technologies Used
 - **PHP**: For handling task data (sessions, adding, and deleting tasks).
